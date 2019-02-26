@@ -99,6 +99,7 @@ Internet Timeline by Anthony Lopez
 
 2019 – 5G internet is in the works, but poses a threat to health and livelihood.
 
+
 Anthony Lopez, Sameh Mahrous – Terminology definitions 2-25-19
 
 GIT – A version control software used for comprehensive snapshots of projects. 
