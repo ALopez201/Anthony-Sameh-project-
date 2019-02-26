@@ -98,3 +98,30 @@ Internet Timeline by Anthony Lopez
 2018 – Voice recognition software, powered by internet, is now gaining popularity with addition of Alexa and other assistive services.
 
 2019 – 5G internet is in the works, but poses a threat to health and livelihood.
+
+Anthony Lopez, Sameh Mahrous – Terminology definitions 2-25-19
+
+GIT – A version control software used for comprehensive snapshots of projects. 
+
+GITHUB – A web-based platform which coincides with WebStorm software, used for viewing projects, repositories and managing changes.
+
+Repository – An interface within git used for cloning and storing work and contains various files.
+
+Clone – To create an identical copy of a specific repository for a multitude of uses.
+
+Commit – A git command used for saving changes to a specific repository.
+
+Push – This command is used to transfer commits made on a local branch, to a remote repository.
+
+Pull – This command is used for fetching and downloading content from a remote repository and updating the local repository with the content.
+
+Branch – An individual sub-platform on a repository, used to work on a project, or access and work with files for that particular branch.
+
+Merge – This command is for combining commits from one repository and applying them to a local repository.
+
+Merge Conflict – This is an issue involving the use git commands in git, which can be resolved in ways such as discarding local changes, remote changes, or altering files in a branch to yield the solution and fix it.
+
+Fetch – This command allows access to files, commits and other useful components from remote repositories in order to utilize them in a local repository and supervise the content.
+
+Remote – These are remote versions (repositories) of a project. These are generally read-only for others and read/write for the owner of the content. They are conveniently accessible to others in order to work on them when necessary.
+
